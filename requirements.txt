@@ -1,0 +1,4 @@
+# Versions used for verification. Install the appropriate PyTorch CUDA build
+# for your training machine before installing these requirements if necessary.
+torch==2.3.1
+einops==0.8.1
